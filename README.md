@@ -1,3 +1,5 @@
+This is a simple activemq docker image I use for development purposes
+
 ### To build the image:
 ```bash
 $ git clone https://github.com/deepaksrivastav/docker-amq.git
