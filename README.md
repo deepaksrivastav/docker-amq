@@ -18,7 +18,7 @@ $ docker-compose -d up
 ```
 
 ### Web Console
-| Tables        | Are           |
+|         |            |
 | ----- | ---- |
 | AMQ Port | 61616 |
 | Web Console Port | 8161 |
