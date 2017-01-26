@@ -1,4 +1,4 @@
-### To build the docker image:
+### To build the image:
 ```bash
 $ git clone https://github.com/deepaksrivastav/docker-amq.git
 $ cd docker-amq
