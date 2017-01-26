@@ -1,6 +1,7 @@
 version: '2'
 services:
   activemq:
+    build: .
     image: activemq:5.14.1
     ports:
         - "61616:61616"
